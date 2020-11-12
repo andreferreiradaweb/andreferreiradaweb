@@ -1,4 +1,4 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 
 <p> Hello there, i'm Andre, i'm marryed and i am a javascript developer and UI/UX designer. I'm from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Brazil, Fortaleza-ce</b>. <p>
@@ -35,6 +35,6 @@
 
 <h2> How to Contact me </h2>
 
-<p><a href="https://github.com/maurodesouza" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/maurodesouzaa" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:maurodesouza2017@hotmail.com" target="_blank"><img alt="Microsoft Outlook" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/andr%C3%A9-ferreira-b09630116/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:andreferreiradaweb@gmail.com" target="_blank"><img alt="Microsoft Outlook" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
