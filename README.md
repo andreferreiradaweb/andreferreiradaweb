@@ -8,7 +8,7 @@
 - ✨ I've been in the programming world since 2014
 - 📚 I'm currently learning Clean Archtecture, React Hooks, Typescrpt and GraphQL
 - 🎯 Goals: Find a job as a developer / Be part of a developer team to make lifes better
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+- 🎲 And ... I love to cook and play FPS Games online
 
 ## I code with
 
