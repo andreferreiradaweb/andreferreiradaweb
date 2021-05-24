@@ -1,14 +1,20 @@
 <h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 
-<p> Hello there, i'm Andre, i'm marryed and i am a javascript developer and UI/UX designer. I'm from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Brazil, Fortaleza-ce</b>. <p>
+<p> Hello guys, my name is André Ferreira, i am marryed and i am a Frontend Engineer and UI/UX designer. I am from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Brazil, Fortaleza-CE</b>. <p>
 
 ## About me
 
 - ✨ I've been in the programming world since 2014
-- 📚 I'm currently learning Clean Archtecture, React Hooks, Typescrpt and GraphQL
-- 🎯 Goals: Find a job as a developer / Be part of a developer team to make lifes better
-- 🎲 And ... I love to cook and play FPS Games online
+- 📚 I'm currently learning:
+  * UX Designer at Google
+  * Clean Archtecture(I am reading the book Clean Code)
+  * Websockets
+  * React Native
+  * Typescrpt
+  * GraphQL
+- 🎯 Goals: Find a job as a Frontend Engineer / Be part of a team to make life better
+- 🎲 And ... I love to play with my pet and play online games when i have free time.
 
 ## I code with
 
