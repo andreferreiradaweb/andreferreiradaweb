@@ -7,11 +7,10 @@
 
 - ✨ I've been in the programming world since 2014
 - 📚 I'm currently learning:
-  * UX Designer at Google
   * Clean Archtecture(I am reading the book Clean Code)
   * Websockets
-  * React Native
-  * Typescrpt
+  * AWS
+  * Typescript
   * GraphQL
 - 🎯 Goals: Find a job as a Frontend Engineer / Be part of a team to make life better
 - 🎲 And ... I love to play with my pet and play online games when i have free time.
@@ -41,6 +40,6 @@
 
 <h2> How to Contact me </h2>
 
-<p><a href="https://www.linkedin.com/in/andr%C3%A9-ferreira-b09630116/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/andreferreiradaweb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:andreferreiradaweb@gmail.com" target="_blank"><img alt="Microsoft Outlook" src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 </p>
