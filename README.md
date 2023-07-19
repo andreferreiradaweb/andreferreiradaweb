@@ -1,7 +1,7 @@
 <h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 
-<p> Hey there, my name is Andre Ferreira, i am happly marryed and i am a Full stack javascript Developer. I live in <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Brazil, Fortaleza-CE</b>. <p>
+<p> Hey there, my name is Andre Ferreira, i am happly marryed and i am a Full stack javascript Developer. I live in <b>Brazil, Fortaleza-CE</b>. <p>
 
 ## About me
 
