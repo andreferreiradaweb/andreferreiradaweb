@@ -1,39 +1,32 @@
 <h1> Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 
-<p> Hello guys, my name is André Ferreira, i am marryed and i am a Frontend Engineer and UI/UX designer. I am from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Brazil, Fortaleza-CE</b>. <p>
+<p> Hey there, my name is Andre Ferreira, i am happly marryed and i am a Full stack javascript Developer. I live in <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13" /> <b>Brazil, Fortaleza-CE</b>. <p>
 
 ## About me
 
-- ✨ I've been in the programming world since 2014
-- 📚 I'm currently learning:
-  * Clean Archtecture(I am reading the book Clean Code)
-  * Websockets
-  * AWS
-  * Typescript
-  * GraphQL
-- 🎯 Goals: Find a job as a Frontend Engineer / Be part of a team to make life better
-- 🎲 And ... I love to play with my pet and play online games when i have free time.
+- ✨ I've been in the programming world since 2015
+- On my free time you can find me playing some game or studying some new technology
+- 📚 I'm currently learning about:
+  * Clean architecture and clean code
+  * Javascript code smells and best practices
+  * Functional programming
+  * AI technologies for web applications, like chatGPT api
+  * Machine learning (NLP Q&A)
+  * Devops concepts like deployment and monitoring
+- 🎯 Goals: Goal: To promote the digital transformation of companies through web technologies with the aim of making people's lives easier.
 
 ## I code with
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" title="Javascript" alt="Javascript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" title="Vue" alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <img align="left" title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<img align="left" title="React and React Native" alt="React and React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
 <img align="left" title="Nodejs" alt="Nodejs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" title="Graphql" alt="Graphql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <br />
 <br />
