@@ -14,7 +14,7 @@
   * AI technologies for web applications, like chatGPT api
   * Machine learning (NLP Q&A)
   * Devops concepts like deployment and monitoring
-- 🎯 Goals: Goal: To promote the digital transformation of companies through web technologies with the aim of making people's lives easier.
+- 🎯 Goal: To promote the digital transformation of companies through web technologies with the aim of making people's lives easier.
 
 ## I code with
 
